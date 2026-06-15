@@ -246,7 +246,7 @@ An experimental Deep Learning repository using PyTorch to implement Recurrent Ne
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahrane2002/mahrane2002/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/mahrane2002/mahrane2002/output/snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
