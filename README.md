@@ -32,7 +32,7 @@
 
 ## 📖 About Me
 
-I am a **Data Science & Quantitative Finance** student based in Tunisia, bridging the gap between mathematical financial systems, advanced data analytics, and modern software engineering. With a strong interest in AI engineering, I dedicate my daily practice to mastering **Machine Learning, Deep Learning, and Algorithmic Trading**. 
+I am a **Statistics , Data Science , Machine Learning & Quantitative Finance** student based in Tunisia, bridging the gap between mathematical financial systems, advanced data analytics, and modern software engineering. With a strong interest in AI engineering, I dedicate my daily practice to mastering **Machine Learning, Deep Learning, and Algorithmic Trading**. 
 
 Inspired by the **gym discipline mindset**, I believe that consistency, focus, and daily execution are the foundations of engineering excellence. I am building a portfolio of real-world projects, transitioning from fundamental machine learning principles to high-performance AI architectures and automated trading systems.
 
@@ -49,9 +49,12 @@ Inspired by the **gym discipline mindset**, I believe that consistency, focus, a
 
 ### 💻 Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+
+
 
 ### 🧠 Data Science & Machine Learning
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -93,82 +96,11 @@ Inspired by the **gym discipline mindset**, I believe that consistency, focus, a
 
 ---
 
-## 🚀 Featured Projects
-
-<details>
-<summary><b>📈 Alpha-Quant Trading Engine (Algorithmic / Experimental)</b></summary>
-<br>
-
-An experimental algorithmic trading bot utilizing technical analysis indicators and historical market data to backtest and execute rule-based strategies.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python, Backtrader, yfinance, Pandas TA |
-| **Scale** | Historical data covering 10+ years of assets |
-| **Performance** | Event-driven architecture with sub-second decision-making simulator |
-| **Security** | Local API key storage utilizing environment variables |
-| **Impact** | Achieved positive Sharpe Ratio during simulated backtests |
-| **Repository** | [View Repository](https://github.com/mahrane2002) |
-
-</details>
-
-<details>
-<summary><b>🧠 Predictive Analytics & Classification Pipeline (Machine Learning)</b></summary>
-<br>
-
-A production-grade machine learning classification project designed to preprocess, analyze, and predict target classes using optimized tree-based classifiers.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python, Scikit-Learn, Pandas, NumPy, XGBoost |
-| **Scale** | Processed datasets containing over 500,000+ data records |
-| **Performance** | Sub-10ms inference latencies following model quantization |
-| **Security** | Built-in anomaly detection and sanitization of input data |
-| **Impact** | Achieved 94.2% F1-score with optimized hyperparameter tuning |
-| **Repository** | [View Repository](https://github.com/mahrane2002) |
-
-</details>
-
-<details>
-<summary><b>📊 Portfolio Optimization & Financial Analytics (Finance)</b></summary>
-<br>
-
-A financial data analysis platform exploring Efficient Frontier, Modern Portfolio Theory (MPT), and Monte Carlo simulations to design risk-adjusted optimal portfolios.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python, SciPy, Pandas, Matplotlib, yfinance |
-| **Scale** | Custom portfolio configurations for up to 50 active financial assets |
-| **Performance** | Optimized matrix multiplications using vectorization techniques |
-| **Security** | Input bounds checking and robust risk limitation matrices |
-| **Impact** | Minimized portfolio volatility while maximizing expected return margins |
-| **Repository** | [View Repository](https://github.com/mahrane2002) |
-
-</details>
-
-<details>
-<summary><b>🔮 Deep Time-Series Prediction Model (Deep Learning)</b></summary>
-<br>
-
-An experimental Deep Learning repository using PyTorch to implement Recurrent Neural Networks (RNN) and LSTM networks for predicting financial market trends.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | PyTorch, NumPy, Matplotlib, Scikit-Learn |
-| **Scale** | Sequential learning over high-frequency tick datasets |
-| **Performance** | GPU-accelerated training using CUDA optimization pipelines |
-| **Security** | Overfitting mitigation via dropout layers and early stopping checks |
-| **Impact** | Reduced Mean Squared Error (MSE) compared to baseline ARIMA forecasts |
-| **Repository** | [View Repository](https://github.com/mahrane2002) |
-
-</details>
-
----
 
 ## 💼 Experience & Journey
 
 * **Student in Data Science & Finance** | Tunisian Engineering School Context
-  * Deepening theoretical knowledge in mathematical modeling, financial asset pricing, and advanced statistical computing.
+  * Deepening theoretical knowledge in ,statistics ,mathematical modeling, financial asset pricing, and advanced statistical computing.
 * **Self-Learning Journey in ML & AI Engineering**
   * Actively taking online specializations, building end-to-end Python models, and tracking models' performance metrics.
 * **GitHub Daily Practice & Open-Source Contributions**
@@ -184,10 +116,8 @@ An experimental Deep Learning repository using PyTorch to implement Recurrent Ne
 
 | Recognition | Details |
 | :--- | :--- |
-| **GitHub Consistency** | Over 100+ consecutive days of active code commits and updates |
 | **Kaggle & Zindi Practice** | Actively working on predictive challenges to benchmark model pipelines |
 | **ML Milestones** | Successfully built and trained PyTorch models from scratch |
-| **Quant Trading** | Designed and backtested custom trading strategy setups |
 
 </div>
 
@@ -195,21 +125,14 @@ An experimental Deep Learning repository using PyTorch to implement Recurrent Ne
 
 ## 🎓 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-8A2BE2?style=flat-square&logo=coursera&logoColor=white" alt="Deep Learning Specialization" />
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford%20%2F%20DeepLearning.AI-7B68EE?style=flat-square&logo=coursera&logoColor=white" alt="Machine Learning Specialization" />
-  <img src="https://img.shields.io/badge/Financial%20Engineering-Coursera-4B0082?style=flat-square&logo=coursera&logoColor=white" alt="Financial Engineering" />
-  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-IBM-8A2BE2?style=flat-square&logo=ibm&logoColor=white" alt="Python for Data Science" />
-</p>
 
 ---
 
 ## 📈 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/mahrane2002" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.hackerrank.com/mahrane2002" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://www.kaggle.com/mahrane2002" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://www.kaggle.com/mahranriahi" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
 ---
@@ -257,8 +180,7 @@ An experimental Deep Learning repository using PyTorch to implement Recurrent Ne
 Learning:
   Machine Learning: "Deepening knowledge of loss optimization and gradient descent"
   Deep Learning: "Building custom MLP and CNN architectures in PyTorch"
-  Quantitative Finance: "Studying Modern Portfolio Theory and risk-parity asset allocation"
-  Trading Bot Development: "Structuring event-driven backtesting infrastructure"
+
 
 Building:
   ML projects in Python: "Developing automated EDA and baseline classification pipelines"
