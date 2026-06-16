@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Location-Tunisia-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-Data%20Science-7B68EE?style=flat-square&logo=python&logoColor=white" alt="Data Science" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-4B0082?style=flat-square&logo=cashapp&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-8A2BE2?style=flat-square&logo=pytorch&logoColor=white" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/Focus-AI-8A2BE2?style=flat-square&logo=pytorch&logoColor=white" alt="AI" />
 </p>
 
 <p align="center">
