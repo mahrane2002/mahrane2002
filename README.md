@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9067C6&center=true&vCenter=true&width=600&lines=Data+Science+%26+Quantitative+Finance;Machine+Learning+Developer;Algorithmic+Trading+Bots;Software+%26+AI+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9067C6&center=true&vCenter=true&width=600&lines=Statistics +Data+Science+%26+Quantitative+Finance;Machine+Learning+Developer;Algorithmic+Trading+Bots;Software+%26+AI+Engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 <p align="center">
   <a href="https://mahrane2002.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/mahrane-riahi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:riahi.mahrane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mahrane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mahrane.riahi@essai.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/mahrane2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
