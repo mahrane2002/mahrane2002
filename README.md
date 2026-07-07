@@ -37,9 +37,10 @@ I am a **Statistics, Data Science, Machine Learning & Quantitative Finance** stu
 Inspired by the **gym discipline mindset**, I believe that consistency, focus, and daily execution are the foundations of engineering excellence. I am building a portfolio of real-world projects, transitioning from fundamental machine learning principles to high-performance AI architectures and automated trading systems.
 
 ### 🎯 Open To
-* **Internships**: Machine Learning, Data Science, or Quantitative Finance roles.
-* **Research**: Collaborations in Quantitative Trading, Time-Series Forecasting, and Applied AI.
-* **Projects**: Open-source contributions, financial modeling experiments, and ML pipeline development.
+
+* **Internships**: Machine Learning, Data Science, AI Engineering, Python Software Engineering, Automation, or Quantitative Finance roles.
+* **Research**: Collaborations in Artificial Intelligence, Machine Learning, Quantitative Trading, Time-Series Forecasting, and Applied AI.
+* **Projects**: Open-source contributions, AI-powered applications, automation systems, financial modeling experiments, and ML pipeline development.
 
 ---
 
