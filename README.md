@@ -115,13 +115,19 @@ Inspired by the **gym discipline mindset**, I believe that consistency, focus, a
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Machine Learning Fundamentals** | 🟡 Intermediate | Supervised & unsupervised learning, classification, regression, model evaluation |
-| **Deep Learning** | 🔴 Beginner (Actively Learning) | Multi-Layer Perceptrons, basic Neural Networks, PyTorch implementation |
-| **Data Analysis** | 🟢 Advanced | Exploratory Data Analysis (EDA), statistical visualization, data cleaning |
-| **Feature Engineering** | 🟡 Intermediate | Scaling, encoding, dimensionality reduction, handling missing values |
-| **Quantitative Finance** | 🟡 Intermediate (Learning Stage) | Risk metrics, portfolio optimization models, time-series forecasting |
+| **Machine Learning Fundamentals** | 🟢 Advanced | Supervised & unsupervised learning, classification, regression, model evaluation, model selection, optimization techniques |
+| **Deep Learning** | 🟡 Intermediate | Neural Networks, Multi-Layer Perceptrons, CNNs fundamentals, PyTorch implementation, deep learning workflows |
+| **Data Analysis** | 🟢 Advanced | Exploratory Data Analysis (EDA), statistical visualization, data cleaning, data preprocessing |
+| **Feature Engineering** | 🟢 Advanced | Feature scaling, encoding, dimensionality reduction, feature selection, handling missing values |
+| **AI Engineering** | 🟡 Intermediate | LLM applications, AI-powered systems, AI workflows, intelligent automation, integrating AI models into applications |
+| **AI Agents & LLM Systems** | 🟡 Intermediate (Learning & Building) | Agent architectures, tool calling concepts, LLM integration, MCP fundamentals, intelligent workflows |
+| **Python Software Engineering** | 🟡 Intermediate | Advanced Python concepts, object-oriented programming, decorators, context managers, clean code practices |
+| **Asynchronous Programming** | 🟡 Intermediate (Learning Stage) | asyncio, coroutines, event loops, async/await, concurrent workflows |
+| **Browser Automation** | 🟡 Intermediate (Learning Stage) | Selenium, Playwright, browser workflows, automated interactions |
+| **Backend Development** | 🟡 Intermediate (Learning Stage) | REST APIs, FastAPI, backend architecture, API integration |
+| **Software Engineering Practices** | 🟡 Intermediate | Git workflows, testing fundamentals, debugging, project organization, maintainable software design |
+| **Quantitative Finance** | 🟡 Intermediate (Learning Stage) | Risk metrics, portfolio optimization models, time-series forecasting, financial data analysis |
 | **Trading Bots** | 🔴 Beginner (Early Projects) | Backtesting pipelines, algorithmic rule execution, financial API integration |
-
 ---
 
 
