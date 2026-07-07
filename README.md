@@ -43,18 +43,68 @@ Inspired by the **gym discipline mindset**, I believe that consistency, focus, a
 * **Projects**: Open-source contributions, AI-powered applications, automation systems, financial modeling experiments, and ML pipeline development.
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 
+---
+
+### 🧠 Data Science & Machine Learning
+
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+
+---
+
+### 🤖 AI Engineering & Automation
+
+[![AsyncIO](https://img.shields.io/badge/AsyncIO-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![LLM Applications](https://img.shields.io/badge/LLM_Applications-4B0082?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-7B68EE?style=for-the-badge)](#)
+
+---
+
+### 📈 Trading & Quantitative Finance
+
+[![Backtrader](https://img.shields.io/badge/Backtrader-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](#)
+[![yfinance](https://img.shields.io/badge/yfinance-4B0082?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Pandas TA](https://img.shields.io/badge/Pandas_TA-7B68EE?style=for-the-badge&logo=pandas&logoColor=white)](#)
+
+---
+
+### 💾 Backend & Databases
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+---
+
+### ⚙️ DevOps, Cloud & Tools
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Virtual Environments](https://img.shields.io/badge/Virtual_Environments-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+</div>
 
 
 ### 🧠 Data Science & Machine Learning
