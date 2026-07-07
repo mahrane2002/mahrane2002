@@ -133,14 +133,19 @@ Inspired by the **gym discipline mindset**, I believe that consistency, focus, a
 
 ## 💼 Experience & Journey
 
-* **Student in Data Science & Finance** | Tunisian Engineering School Context
-  * Deepening theoretical knowledge in ,statistics ,mathematical modeling, financial asset pricing, and advanced statistical computing.
-* **Self-Learning Journey in ML & AI Engineering**
-  * Actively taking online specializations, building end-to-end Python models, and tracking models' performance metrics.
-* **GitHub Daily Practice & Open-Source Contributions**
-  * Committing code daily, building utility tools, and sharing clean engineering practices.
+* **Student in Data Science & Finance** | Tunisian Engineering School Context  
+  * Deepening theoretical knowledge in statistics, mathematical modeling, financial asset pricing, machine learning, and advanced statistical computing.
 
-> **Key Focus Areas**: `Machine Learning` • `Deep Learning` • `Quantitative Methods` • `Algorithmic Trading` • `Clean Code`
+* **Self-Learning Journey in ML & AI Engineering**  
+  * Actively developing practical skills through continuous learning, building end-to-end machine learning models, AI-powered applications, Python software projects, and improving model performance through experimentation and evaluation.
+
+* **Python Software Engineering & AI Development**  
+  * Expanding expertise in advanced Python programming, asynchronous programming, automation workflows, API development, AI agents, LLM-based systems, and modern software engineering practices.
+
+* **GitHub Daily Practice & Open-Source Contributions**  
+  * Committing code regularly, building technical projects, developing utility tools, documenting learning progress, and sharing clean engineering practices.
+
+> **Key Focus Areas**: `Machine Learning` • `Deep Learning` • `AI Engineering` • `Python Software Engineering` • `Automation` • `AI Agents` • `LLM Applications` • `Quantitative Methods` • `Algorithmic Trading` • `Clean Code`
 
 ---
 
