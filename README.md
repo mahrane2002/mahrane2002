@@ -5,14 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9067C6&center=true&vCenter=true&width=600&lines=Data+Science+%26+Statistics;Machine+Learning+Developer;Algorithmic+Trading+Bots;Software+%26+AI+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9067C6&center=true&vCenter=true&width=600&lines=Data+Science+%26+Statistics;Machine+Learning+Engineer;AI+Engineering+%26+LLM+Applications;Python+Software+Engineering;Automation+%26+AI+Agents;Quantitative+Finance+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Tunisia-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-Data%20Science-7B68EE?style=flat-square&logo=python&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-4B0082?style=flat-square&logo=cashapp&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Focus-AI-8A2BE2?style=flat-square&logo=pytorch&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-4B0082?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Focus-Automation-7B68EE?style=flat-square&logo=selenium&logoColor=white" alt="Automation" />
 </p>
 
 <p align="center">
@@ -27,7 +28,6 @@
   <img src="https://img.shields.io/github/followers/mahrane2002?style=flat-square&color=8A2BE2&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/mahrane2002?style=flat-square&color=8A2BE2&label=Stars" alt="Stars" />
 </p>
-
 ---
 
 ## 📖 About Me
