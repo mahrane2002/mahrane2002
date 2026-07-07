@@ -32,7 +32,7 @@
 
 ## 📖 About Me
 
-I am a **Statistics , Data Science , Machine Learning & Quantitative Finance** student based in Tunisia, bridging the gap between mathematical financial systems, advanced data analytics, and modern software engineering. With a strong interest in AI engineering, I dedicate my daily practice to mastering **Machine Learning, Deep Learning, and Algorithmic Trading**. 
+I am a **Statistics, Data Science, Machine Learning & Quantitative Finance** student based in Tunisia, bridging the gap between mathematical financial systems, advanced data analytics, and modern software engineering. With a strong interest in **AI Engineering**, I dedicate my daily practice to mastering **Machine Learning, Deep Learning, Algorithmic Trading, Python Software Engineering, Automation, and AI-driven systems**.
 
 Inspired by the **gym discipline mindset**, I believe that consistency, focus, and daily execution are the foundations of engineering excellence. I am building a portfolio of real-world projects, transitioning from fundamental machine learning principles to high-performance AI architectures and automated trading systems.
 
