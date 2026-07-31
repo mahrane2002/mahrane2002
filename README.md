@@ -24,9 +24,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=mahrane2002&color=8a2be2&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mahrane2002?style=flat-square&color=8A2BE2&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mahrane2002?style=flat-square&color=8A2BE2&label=Stars" alt="Stars" />
+  <a href="https://github.com/mahrane2002"><img src="https://komarev.com/ghpvc/?username=mahrane2002&color=8a2be2&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
+  <a href="https://github.com/mahrane2002?tab=followers"><img src="https://img.shields.io/github/followers/mahrane2002?style=flat-square&color=8A2BE2&label=Followers" alt="Followers" /></a>
+  <a href="https://github.com/mahrane2002?tab=stars"><img src="https://img.shields.io/github/stars/mahrane2002?style=flat-square&color=8A2BE2&label=Stars" alt="Stars" /></a>
 </p>
 ---
 
